@@ -1,5 +1,8 @@
 Source Files
 ===================
-These are the source files for the book, Learning React: https://www.amazon.com/exec/obidos/ASIN/0134546318/kirupacom
 
-If you have any questions, please post on the forums at: http://forum.kirupa.com
+Big fan of Kirupa's lifecycle methods example. rights for the current code. belong to kirupa. In addition I will put in a few details I have learned over time. 
+
+this repository is being used for self education purposes. and self reference.
+
+regards, Michael Dimmitt
